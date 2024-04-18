@@ -2,6 +2,6 @@
 
 int main() {
     // Print "Hello, world!" to the console
-    printf("Hello, world!\n");
+    printf("Madrid is winning this year!\n");
     return 0;
 }
